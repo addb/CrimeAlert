@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CrimeAlert</string>
+    <string name="report">Report Crime</string>string>
+    <string name="sos">SOS</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Sign In</string>
+
+
+    <!-- Strings related to login -->
+    <string name="name">Your Name</string>
+    <string name="dob">Enter Your Date of Birth</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="verify_password">Re-enter Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_login">Sign in</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_verifying_password">Both the passwords should match</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_empty_name_field">Name Field cannot be Empty!</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_report_crime">ReportCrime</string>
+    <string name="gcm_senderID">118099300070</string>
+
+    <string name="urlIP">http://192.168.0.20:8180/</string>
+    <string name="urlIP2">http://169.234.32.567:8180/</string>
+
+    <string-array name="crime_type_list">
+        <item>Abduction</item>
+        <item>Burglary</item>
+        <item>Murder</item>
+        <item>Shooting</item>
+
+    </string-array>
+</resources>
